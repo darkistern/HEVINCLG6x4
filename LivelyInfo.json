@@ -1,0 +1,9 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "HEV IN12 GL Clock",
+  "Desc": "Ламповые часы ИН-12 в стиле интерфейса костюма HEV",
+  "Author": "github.com/darkistern",
+  "License": "Copyright (c) 2026 Erelin Darkis Sternelis (darkistern). All rights reserved.",
+  "Type": 1,
+  "FileName": "index.html"
+}

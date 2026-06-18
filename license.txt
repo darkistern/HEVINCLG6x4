@@ -1,0 +1,48 @@
+## Лицензирование и авторские права (Licensing & Credits)
+Этот код защищен авторским правом. 
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+Original project author: Erelin Darkis Sternelis (darkistern)
+Link to the original code: https://github.com/darkistern/HEVINCLG6x4
+
+Лицензия: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+Автор оригинального проекта: Erelin Darkis Sternelis (darkistern)
+Ссылка на оригинальный код: https://github.com/darkistern/HEVINCLG6x4
+
+Вы имеете право:
+- Делиться (копировать и распространять материал на любом носителе или в любом формате).
+- Адаптировать (ремиксировать, видоизменять и создавать новое на основе этого материала).
+
+При соблюдении следующих условий:
+1. Attribution (Указание авторства) — Вы должны обеспечить соответствующее указание авторства, предоставить ссылку на автора Erelin Darkis Sternelis (darkistern) и ссылку на оригинальный репозиторий.
+2. NonCommercial (Некоммерческое использование) — Вы не имеете права использовать этот материал в коммерческих целях (продавать, сдавать в аренду, использовать для получения выгоды) не купив у меня этот продукт. Это недорого от слова совсем.
+
+3. ShareAlike (Сохранение условий) — Если вы изменяете, преобразуете или берете за основу этот материал, вы обязаны распространять свои измененные версии под той же самой лицензией (CC BY-NC-SA 4.0).
+
+Полный юридический текст лицензии доступен по ссылке: https://creativecommons.org
+
+You have the right to:
+- Share (copy and distribute the material in any medium or format).
+- Adapt (remix, modify, and build upon this material).
+
+Subject to the following conditions:
+1. Attribution — You must provide appropriate attribution, credit to the author, Erelin Darkis Sternelis (darkistern), and a link to the original repository.
+2. Non-Commercial — You may not use this material for commercial purposes (sell, rent, or profiteer) without purchasing this product from me. It's a steal.
+
+The full legal text of the license is available at: https://creativecommons.org
+
+### Код и архитектура (Code & Core Engine)
+Программный код проекта, структура CSS-стилей и архитектура оптического SVG-движка преломлений стёкол являются оригинальной разработкой и распространяются под свободной лицензией **MIT**. 
+* Разрешается коммерческое и некоммерческое использование, модификация и распространение в составе любых приложений (EXE, APK, Живые обои).
+* Код предоставляется "как есть" (as is) без каких-либо явных или подразумеваемых гарантий.
+
+### Шрифты (Typography)
+В проекте используется цифровой шрифт **Comfortaa** (Comfortaa — датский дизайнер Йохан Окерлунд (Johan Aakerlund).
+* Шрифт распространяется под открытой международной лицензией **SIL Open Font License (OFL) версии 1.1**.
+* Полный текст лицензии доступен на официальном сайте: http://sil.org
+* Лицензия OFL полностью разрешает использование шрифта в коммерческих программных продуктах и пакетах живых обоев.
+
+### Графика и Карты деформаций (Assets & Displacements)
+* Пользовательские текстуры, фоновые изображения и растровые карты смещений пикселей (Base64 / PNG / JPG), добавляемые в корневую папку проекта, управляются индивидуальными лицензиями их авторов или правообладателей. Таких нет. Файлы сгенерированы кроме шрифта.
+
+Copyright (c) 2026 Erelin Darkis Sternelis (darkistern)
+

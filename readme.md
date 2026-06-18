@@ -1,0 +1,3 @@
+This clock is inspired by IN-12 and Tesla indicators and the HEV, and Alpha Moonlight project Nexie Clocks. It can be used as a cash register for displays, TVs, microcontroller projects, and as live desktops. There's json for Wallpaper Engine and Lively Wallpaper. Font used: Comfortaa (by Johan Aakerlund, licensed under SIL OFL). 
+
+ !! CC BY-NC-SA 4.0 Copyright (c) 2026 Erelin Darkis Sternelis (darkistern)
